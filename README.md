@@ -1,1 +1,1 @@
-# odin-recipepro
+In this project I am building a basic recipe website. The website will consist of a main index page which will have Links to a few recipes. this project is just to build my HTML chops. This project will be re-visited in the nearest future to style it up with CSS.# odin-recipes# odin-recipes# odin-recipepro
